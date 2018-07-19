@@ -80,8 +80,8 @@ gulp.task('es-js', () => {
         }))
 });
 
-gulp.task('buildpages', function() {
-  gulp.src('src/views/pages/**/*.{html,hbs,handlebars}')
+function pages() {
+  return gulp.src('src/views/pages/**/*.{html,hbs,handlebars}')
     .pipe(panini({
       root: 'src/views/pages/',
       layouts: 'src/views/layouts/',
@@ -89,11 +89,20 @@ gulp.task('buildpages', function() {
       helpers: 'src/views/helpers/',
       data: 'src/views/data/'
     }))
+    .pipe(rename({ extname: '.html' }))
     .pipe(gulp.dest(PATHS.build))
     .pipe(gulp.dest(PATHS.dist));
-});
+}
 
-// Run everything if you're just lucking to compile
+gulp.task('buildpages', pages);
+
+// Reset Panini's cache of layouts and partials
+gulp.task('reset', function() {
+    panini.refresh()
+    return pages()
+})
+
+// Run everything if you're just looking to compile
 gulp.task('default', ['sass', 'es-js','buildpages']);
 
 // Configure the browserSync task
@@ -105,13 +114,7 @@ gulp.task('browserSync', function() {
 
 // Dev task with browserSync
 gulp.task('dev', ['browserSync', 'sass', 'es-js', 'buildpages'], function() {
-    gulp.watch('src/sass/*.scss', ['sass']);
-    gulp.watch('src/js/**/*.js', ['es-js']);
-    gulp.watch('src/views/**/*.{html,hbs,handlebars}', ['buildpages']);
-
-    // Once the above tasks run, we check for changes to the files in
-    // the build folder before reloading the browser.
-    gulp.watch('build/*.{html,hbs,handlebars}', browserSync.reload);
-    gulp.watch('build/*.css', browserSync.reload);
-    gulp.watch('build/*.js', browserSync.reload);
+    gulp.watch('src/sass/*.scss', ['sass', browserSync.reload]);
+    gulp.watch('src/js/**/*.js', ['es-js', browserSync.reload]);
+    gulp.watch('src/views/**/*.{html,hbs,handlebars}', ['reset', browserSync.reload]);
 });

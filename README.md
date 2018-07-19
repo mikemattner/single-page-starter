@@ -1,5 +1,6 @@
 # Single Page Starter Kit #
-If you're looking to develop a simple single page or small marketing site, this might do the trick.
+If you're looking to develop a simple single page or small marketing site, this might do the trick. This uses bulma by default,
+but you can choose whatever framework you want. Or no framework at all.
 
 ##Getting Started
 Please review `gulpfile.babel.js` for any project settings you'll need to update.
