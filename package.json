@@ -1,9 +1,9 @@
 {
-  "name": "CRAFTSMAN",
-  "title": "CRAFTSMAN",
+  "name": "starter-page",
+  "title": "Starter Page Project",
   "version": "1.0.0",
   "homepage": "",
-  "author": "Aisle Rocket Studios",
+  "author": "Mike Mattner",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-preset-env": "^1.7.0",
@@ -16,13 +16,13 @@
     "gulp-babel": "^7.0.1",
     "gulp-compile-handlebars": "^0.6.1",
     "gulp-concat": "^2.6.1",
+    "gulp-if": "^2.0.2",
     "gulp-filter": "^4.0.0",
     "gulp-header": "^1.8.7",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^3.1.0",
     "gulp-uglify": "^1.5.4",
     "gulp-watch": "^4.3.11",
-    "mixitup": "^3.3.0",
     "panini": "^1.6.2",
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0",
@@ -30,20 +30,6 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
-  },
-  "dependencies": {
-    "gulp-file-include": "^2.0.1",
-    "gulp-if": "^2.0.2",
-    "isotope": "^1.0.0-alpha.3",
-    "isotope-layout": "^3.0.6",
-    "isotope-packery": "^2.0.1",
-    "jquery": "^3.3.1",
-    "jquery-bridget": "^2.0.1",
-    "jquery-validation": "^1.17.0",
-    "object-fit": "^0.4.3",
-    "object-fit-images": "^3.2.3",
-    "object-fit-videos": "^1.0.4",
-    "slick-carousel": "^1.8.1"
+    "url": "https://github.com/mikemattner/single-page-starter"
   }
 }

@@ -21,11 +21,25 @@ import gulpif           from 'gulp-if';
 // Set your project title, path to your css and js for production.
 const PROJECT = 'Project Title';
 
+const DIRS = {
+    dist: 'dist',
+    build: 'build',
+    views: 'src/views',
+    styles: 'src/sass',
+    scripts: 'src/js'
+}
+
+const SOURCES = {
+    scss: `${DIRS.styles}/**/app.scss`,
+    js: `${DIRS.scripts}/app.js`
+}
+
 const PATHS = {
-  dist: './dist',
-  build: './build',
-  partials: './src/views/partials',
-  globals: './src/views/layouts/global'
+    root: `${DIRS.views}/pages/`,
+    layouts: `${DIRS.views}/layouts/`,
+    partials: `${DIRS.views}/partials/`,
+    helpers: `${DIRS.views}/helpers/`,
+    data: `${DIRS.views}/data/`,
 } 
 
 const ENV = {
@@ -41,13 +55,13 @@ let ENVIRONMENT = ((PRODUCTION) ? ENV.prod : ENV.stage);
 
 // sass
 gulp.task('sass', () => {
-  return gulp.src('src/sass/**/app.scss')
+  return gulp.src(SOURCES.scss)
     .pipe(gulpif(PRODUCTION,
         sass({outputStyle: 'compressed'}).on('error', sass.logError),
         sass().on('error', sass.logError)))
-    .pipe(concat('style.css'))
-    .pipe(gulp.dest(PATHS.build))
-    .pipe(gulp.dest(PATHS.dist))
+    .pipe(concat('app.css'))
+    .pipe(gulp.dest(DIRS.build))
+    .pipe(gulp.dest(DIRS.dist))
     .pipe(browserSync.reload({
             stream: true
     }));
@@ -55,7 +69,7 @@ gulp.task('sass', () => {
 
 // Browserify
 gulp.task('es-js', () => {
-    return browserify('src/js/app.js')
+    return browserify(SOURCES.js)
         .transform('babelify', {
             presets: [
                 [
@@ -73,25 +87,25 @@ gulp.task('es-js', () => {
         .pipe(source('app.js'))
         .pipe(buffer())
         .pipe(gulpif(PRODUCTION, uglify()))
-        .pipe(gulp.dest(PATHS.build))
-        .pipe(gulp.dest(PATHS.dist))
+        .pipe(gulp.dest(DIRS.build))
+        .pipe(gulp.dest(DIRS.dist))
         .pipe(browserSync.reload({
             stream: true
         }))
 });
 
 function pages() {
-  return gulp.src('src/views/pages/**/*.{html,hbs,handlebars}')
+  return gulp.src(PATHS.root + '**/*.{html,hbs,handlebars}')
     .pipe(panini({
-      root: 'src/views/pages/',
-      layouts: 'src/views/layouts/',
-      partials: 'src/views/partials/',
-      helpers: 'src/views/helpers/',
-      data: 'src/views/data/'
+      root: PATHS.root,
+      layouts: PATHS.layouts,
+      partials: PATHS.partials,
+      helpers: PATHS.helpers,
+      data: PATHS.data
     }))
     .pipe(rename({ extname: '.html' }))
-    .pipe(gulp.dest(PATHS.build))
-    .pipe(gulp.dest(PATHS.dist));
+    .pipe(gulp.dest(DIRS.build))
+    .pipe(gulp.dest(DIRS.dist));
 }
 
 gulp.task('buildpages', pages);
