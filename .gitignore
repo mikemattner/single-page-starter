@@ -1,5 +1,7 @@
 build/*
+build/!.gitignore
 dist/*
+dist/!.gitignore
 node_modules/*
 .DS_Store
 !.gitignore
