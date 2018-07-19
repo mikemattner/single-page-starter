@@ -1,0 +1,1161 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"auto",
+				"autoplaySpeed"
+			],
+			[
+				"red",
+				"red-dark"
+			],
+			[
+				"C",
+				"CSSLINK"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"tab",
+				"tabPane"
+			],
+			[
+				"vide",
+				"videoModal"
+			],
+			[
+				"min",
+				"min-media"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"storage",
+				"storage-pane"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"flex-",
+				"flex-basis"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"part",
+				"research_participation"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"panel",
+				"panel-body"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-left: "
+			],
+			[
+				"can",
+				"canadian_resident"
+			],
+			[
+				"phone",
+				"phone_number"
+			],
+			[
+				"firs",
+				"first_name"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"text",
+				"text-decoration: "
+			],
+			[
+				"col-sm",
+				"col-sm-12"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"transf",
+				"transform-origin: "
+			],
+			[
+				"tra",
+				"transform-origin: "
+			],
+			[
+				"pa",
+				"padding-top: "
+			],
+			[
+				"margin-",
+				"margin-bottom: "
+			],
+			[
+				"text-",
+				"text-align: "
+			],
+			[
+				"max-",
+				"max-height: "
+			],
+			[
+				"tex",
+				"text-transform: "
+			],
+			[
+				"gr",
+				"gray-darker"
+			],
+			[
+				"backgro",
+				"background-color: "
+			],
+			[
+				"br",
+				"brand-primary"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"color",
+				"color__white"
+			],
+			[
+				"more_",
+				"more_box"
+			],
+			[
+				"expand_",
+				"expand__more"
+			],
+			[
+				"print",
+				"print"
+			],
+			[
+				"border",
+				"border-radius: "
+			],
+			[
+				"border-b",
+				"border-bottom: "
+			],
+			[
+				"color__",
+				"color__ys-light-blue"
+			],
+			[
+				"col",
+				"color__ys-light-blue"
+			],
+			[
+				"border-bottom",
+				"border-bottom-width: "
+			],
+			[
+				"padding-",
+				"padding-bottom: "
+			],
+			[
+				"ali",
+				"align-items: "
+			],
+			[
+				"paddi",
+				"padding-bottom: "
+			],
+			[
+				"block",
+				"blockquote"
+			],
+			[
+				"post",
+				"post_id"
+			],
+			[
+				"color_",
+				"color__ys-blue"
+			],
+			[
+				"font_b",
+				"font_book-weight"
+			],
+			[
+				"pmap",
+				"pmap_banner-pricing"
+			],
+			[
+				"colo",
+				"color__gold"
+			],
+			[
+				"font_",
+				"font_light"
+			],
+			[
+				"change",
+				"change-quantity"
+			],
+			[
+				"fo",
+				"font_light"
+			],
+			[
+				"co",
+				"color__white"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ine",
+				"inline-block"
+			],
+			[
+				"fon",
+				"font_light"
+			],
+			[
+				"font_book",
+				"font_book-weight"
+			],
+			[
+				"f",
+				"font_bold-weight"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"backg",
+				"background: "
+			],
+			[
+				"box",
+				"box-sizing: "
+			],
+			[
+				"bacgr",
+				"background: "
+			],
+			[
+				"r",
+				"relative"
+			],
+			[
+				"cyce",
+				"cycle2"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"Editor",
+				"content_editor"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"tab-grid",
+				"tab-grid-item-view"
+			],
+			[
+				"replacement",
+				"replacement-parts"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"replace",
+				"replacement-parts-content"
+			],
+			[
+				"top",
+				"top"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"url",
+				"url"
+			],
+			[
+				"is",
+				"isCompleted"
+			],
+			[
+				"pla",
+				"playerTwo"
+			],
+			[
+				"playe",
+				"playerTwo"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"open",
+				"opendir"
+			],
+			[
+				"js",
+				"js"
+			],
+			[
+				"wp_en",
+				"wp_verify_nonce"
+			],
+			[
+				"function",
+				"function_exists"
+			],
+			[
+				"odbc",
+				"odbc_prepare"
+			],
+			[
+				"obdc",
+				"odbc_data_source"
+			],
+			[
+				"odb",
+				"odbc_pconnect"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"John",
+				"John"
+			],
+			[
+				"get",
+				"getAge"
+			],
+			[
+				"includ",
+				"include_css"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 460,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{\n\t\"folders\":\n\t[\n\t\t{\n\t\t\t\"path\": \".\"\n\t\t}\n\t]\n}\n",
+			"file": "single-page-starter.sublime-project",
+			"file_size": 45,
+			"file_write_time": 131764959392361795,
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sas",
+				"SassBeautify"
+			],
+			[
+				"jso",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"html",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"beau",
+				"SassBeautify"
+			],
+			[
+				"pret",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"form",
+				"Format: Php"
+			],
+			[
+				"for",
+				"Format Code"
+			],
+			[
+				"fo",
+				"Format: Php"
+			],
+			[
+				"Form",
+				"Format Code"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 494.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mikemattner/Documents/htdocs/single-page-starter"
+	],
+	"file_history":
+	[
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/gulpfile.babel.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/README.md",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/views/partials/events.hbs",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/sass/_events.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/sass/_deals.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/views/partials/intro.hbs",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/sass/_intro.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/sass/_opinion.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/sass/_feature-video.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/js/lib/scroll.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/views/partials/form.hbs",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/sass/_buttons.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/views/partials/opinion.hbs",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/sass/_slick-theme.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/sass/_slick.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/sass/style.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/node_modules/slick-carousel/slick/slick-theme.css",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/js/lib/form.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/sass/_form.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/js/lib/video.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/sass/_variables.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/sass/_typography.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/sass/_alert.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/sass/_social.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/dist/style.css",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/views/partials/deals.hbs",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/views/partials/hero.hbs",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/views/partials/feature-video.hbs",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/sass/_hero.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/sass/_mixins.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/node_modules/slick-carousel/slick/slick-theme.scss",
+		"/Users/mikemattner/Desktop/icon.svg",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/views/layouts/global/footer.hbs",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/views/layouts/global/header.hbs",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/dist/scripts.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/dist/page.html",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/views/partials/social.hbs",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/js/app.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/sass/_product-features.scss",
+		"/Users/mikemattner/Desktop/strokes.svg",
+		"/Users/mikemattner/Desktop/pattern.svg",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/sass/_global.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/views/layouts/page.hbs",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/.gitignore",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/build/index.html",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/views/pages/page.handlebars",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/views/layouts/index.handlebars",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/.babelrc",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/views/pages/page.html",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/views/layouts/index.html",
+		"/Users/mikemattner/Documents/htdocs/craftsman-club-page/src/views/layouts/page.html",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/js/lib/product-grid.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/js/app.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/gulpfile.babel.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/.babelrc",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/dist/page.html",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/dist/scripts.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/dist/style.css",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/js/lib/mix-filter.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/views/index.html",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/views/hero.html",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/oldgulpfile.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/package.json",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/js/lib/yt-video.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/sass/_variables.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/sass/_hero.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/sass/_factory-locations.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/views/factory-locations.html",
+		"/Users/mikemattner/Desktop/us-map.svg",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/js/lib/scroll.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/js/lib/tab-pane.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/sass/_product-features.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/views/product-grid.html",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/sass/_global.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/sass/_mixins.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/sass/_product-grid.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/sass/_reset.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/sass/_typography.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/js/lib/video.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/gulpfile.js",
+		"/Users/mikemattner/Desktop/scripts.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/build/scripts.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/node_modules/isotope-layout/package.json",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/js/lib/global.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/js/lib/object-fit.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/js/main.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/js/video.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/js/object-fit.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/js/product-grid.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/build/style.css",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/build/index.html",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/sass/_animation.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/views/page.html",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/build/all.css",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/views/product-features.html",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/sass/_modal.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/sass/style.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/README.md",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/views/madeinusa.html",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/views/factorylocations.html",
+		"/Users/mikemattner/Desktop/play-button.svg",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/views/mechanics-tools.html",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/views/storage.html",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/views/global-header.html",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/views/global-footer.html",
+		"/Users/mikemattner/Library/Application Support/Sublime Text 3/Packages/Boxy Theme/Boxy Ocean.sublime-theme",
+		"/Users/mikemattner/Documents/htdocs/craftsman-miusa-page/src/js/plugins.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-transition-landing/build/page.html",
+		"/Users/mikemattner/Documents/htdocs/craftsman-transition-landing/build/css/style.css",
+		"/Users/mikemattner/Documents/htdocs/craftsman-transition-landing/src/sass/style.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-transition-landing/src/views/product-grid.html",
+		"/Users/mikemattner/Documents/htdocs/craftsman-transition-landing/src/js/product-grid.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-transition-landing/src/views/index.html",
+		"/Users/mikemattner/Documents/htdocs/craftsman-transition-landing/src/views/global-header.html",
+		"/Users/mikemattner/Documents/htdocs/craftsman-transition-landing/src/views/global-footer.html",
+		"/Users/mikemattner/Documents/htdocs/craftsman-transition-landing/src/sass/_intro.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-transition-landing/src/sass/_product-features.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-transition-landing/src/sass/_typography.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-transition-landing/src/sass/_product-grid.scss",
+		"/Users/mikemattner/Documents/htdocs/craftsman-transition-landing/src/views/countdown.html",
+		"/Users/mikemattner/Documents/htdocs/craftsman-transition-landing/build/js/scripts.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-transition-landing/src/js/product-features.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-transition-landing/src/js/plugins.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-transition-landing/src/js/object-fit.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-transition-landing/src/js/global.js",
+		"/Users/mikemattner/Documents/htdocs/craftsman-transition-landing/src/js/email-form.js",
+		"/Users/mikemattner/Library/Preferences/Adobe InDesign/Version 13.0/en_US/Scripts/Scripts Panel/imagesToCSV.jsx",
+		"/Users/mikemattner/Documents/htdocs/craftsman-transition-landing/src/views/mechanics-tools.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 162.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								394,
+								394
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "single-page-starter.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 37,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										43,
+										44
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "single-page-starter.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
