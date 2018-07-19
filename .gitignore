@@ -1,7 +1,16 @@
-build/*
+# Ignore most of the BUILD folder
+build/*.css
+build/*.js
+build/*.html
 build/!.gitignore
-dist/*
+
+# Ignore most of the DIST folder
+dist/*.css
+dist/*.js
+dist/*.html
 dist/!.gitignore
+
+# Other Files
 node_modules/*
 .DS_Store
 !.gitignore
