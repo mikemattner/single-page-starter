@@ -15,5 +15,5 @@ If you run `gulp dev --proudction` all styles and javascript will be concatenate
 ### A Few Notes
 * `build` folder will serve your files for review in the browser
 * `dist` folder will contain the elements needed for your project
-* I'm pretty consistently working to create an easy started project for the work I do 
+* I'm pretty consistently working to create an easy project starter for the work I do 
 * Check back later
