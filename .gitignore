@@ -1,7 +1,4 @@
 # Ignore most of the DOCS folder
-docs/*.css
-docs/*.js
-docs/*.html
 docs/!.gitignore
 
 # Ignore most of the DIST folder
