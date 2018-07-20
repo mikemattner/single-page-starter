@@ -23,7 +23,7 @@ const PROJECT = 'Project Title';
 
 const DIRS = {
     dist: 'dist',
-    build: 'build',
+    build: 'docs',
     views: 'src/views',
     styles: 'src/sass',
     scripts: 'src/js'
@@ -122,13 +122,13 @@ gulp.task('default', ['sass', 'es-js','buildpages']);
 // Configure the browserSync task
 gulp.task('browserSync', function() {
     browserSync.init({
-        server: "build"
+        server: "docs"
     })
 })
 
 // Dev task with browserSync
 gulp.task('dev', ['browserSync', 'sass', 'es-js', 'buildpages'], function() {
-    gulp.watch('src/sass/*.scss', ['sass', browserSync.reload]);
-    gulp.watch('src/js/**/*.js', ['es-js', browserSync.reload]);
-    gulp.watch('src/views/**/*.{html,hbs,handlebars}', ['reset', browserSync.reload]);
+    gulp.watch(`${DIRS.styles}/**/*.scss`, ['sass', browserSync.reload]);
+    gulp.watch(`${DIRS.scripts}/**/*.js`, ['es-js', browserSync.reload]);
+    gulp.watch(`${DIRS.views}/**/*.{html,hbs,handlebars}`, ['reset', browserSync.reload]);
 });

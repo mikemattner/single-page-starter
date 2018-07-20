@@ -31,5 +31,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/mikemattner/single-page-starter"
+  },
+  "dependencies": {
+    "bulma": "^0.7.1"
   }
 }

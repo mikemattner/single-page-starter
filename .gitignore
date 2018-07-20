@@ -1,8 +1,8 @@
-# Ignore most of the BUILD folder
-build/*.css
-build/*.js
-build/*.html
-build/!.gitignore
+# Ignore most of the DOCS folder
+docs/*.css
+docs/*.js
+docs/*.html
+docs/!.gitignore
 
 # Ignore most of the DIST folder
 dist/*.css
