@@ -10,10 +10,6 @@
  */
 class App {
 
-    /**
-     * Creates an instance of App.
-     * @memberof App
-     */
     constructor() {
 
         
